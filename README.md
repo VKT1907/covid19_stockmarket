@@ -4,7 +4,15 @@ Project is implemented to visualize the trends in the share prices of various co
 
 
 ## Libraries/Packages Used:
-..* numpy
-..8 pandas
+* numpy
+* pandas
+* time
+* BeautifulSoup
+* selenium
+* datetime
+* seaborn
+* matplotlib
+* sklearn
+* os
 
 
