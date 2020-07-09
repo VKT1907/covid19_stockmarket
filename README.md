@@ -22,4 +22,14 @@ Project is implemented to visualize the trends in the share prices of various co
 
 
 ## Sample Images Produced:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/VKT1907/covid19_stockmarket/blob/master/visualizations/StockMarket_AllCompanies.png "Share Prices of All the Companies")
+
+![alt text](https://github.com/VKT1907/covid19_stockmarket/blob/master/visualizations/StockMarket_Scaled_AllCompanies.png "Scaled Share Prices of All the Companies")
+
+![alt text](https://github.com/VKT1907/covid19_stockmarket/blob/master/visualizations/StockMarket_Scaled_AAJohn.png "Comparing Shares of Johnson & Johson with American Airlines")
+
+![alt_text](https://github.com/VKT1907/covid19_stockmarket/blob/master/test_images/Stock_0000.png "Test Image of Share Prices on 22nd January 2020")
+
+![alt_text](https://github.com/VKT1907/covid19_stockmarket/blob/master/test_images/Stock_0002.png "Test Image of Share Prices on 20th March 2020")
+
+![alt_text](https://github.com/VKT1907/covid19_stockmarket/blob/master/test_images/Stock_0003.png "Test Image of Share Prices on 13th April 2020")
