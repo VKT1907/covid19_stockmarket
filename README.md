@@ -33,3 +33,10 @@ Project is implemented to visualize the trends in the share prices of various co
 ![alt_text](https://github.com/VKT1907/covid19_stockmarket/blob/master/test_images/Stock_0002.png "Test Image of Share Prices on 20th March 2020")
 
 ![alt_text](https://github.com/VKT1907/covid19_stockmarket/blob/master/test_images/Stock_0003.png "Test Image of Share Prices on 13th April 2020")
+
+
+## Social:
+*LinkedIn: [Vikas Thamke](https://www.linkedin.com/in/vikaskthamke/)
+*GitHub: [Vikas Thamke](https://github.com/VKT1907/)
+*Quora: [Vikas Thamke](https://www.quora.com/profile/Vikas-Thamke)
+*Medium: [Vikas Thamke](https://medium.com/@vikasthamke)
