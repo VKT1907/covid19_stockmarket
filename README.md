@@ -36,7 +36,7 @@ Project is implemented to visualize the trends in the share prices of various co
 
 
 ## Social:
-*LinkedIn: [Vikas Thamke](https://www.linkedin.com/in/vikaskthamke/)
-*GitHub: [Vikas Thamke](https://github.com/VKT1907/)
-*Quora: [Vikas Thamke](https://www.quora.com/profile/Vikas-Thamke)
-*Medium: [Vikas Thamke](https://medium.com/@vikasthamke)
+* LinkedIn: [Vikas Thamke](https://www.linkedin.com/in/vikaskthamke/)
+* GitHub: [VKT1907](https://github.com/VKT1907/)
+* Quora: [Vikas Thamke](https://www.quora.com/profile/Vikas-Thamke)
+* Medium: [Vikas Thamke](https://medium.com/@vikasthamke)
